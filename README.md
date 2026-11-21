@@ -26,35 +26,6 @@ My work spans **IT infrastructure, system administration, end-user support, asse
 
 > **My approach:** Reliable infrastructure. Secure access. Smarter operations.
 
-## 📁 Repositories
-
-A selection of my projects focused on IT operations, administration, and practical automation.
-
-### ⚡ [GWS Admin Hub](https://github.com/Gobiselvan/GWS-Admin-Hub)
-
-A reusable **Google Workspace administration toolkit** built with Google Apps Script and Google Sheets for authorized IT administrators.
-
-- **New Joiner Provisioning:** Set up and validate new user accounts.
-- **Scheduled Suspension & Reactivation:** Manage account lifecycle actions with configurable scheduling and safeguards.
-- **Administrator Setup:** Configure your own Workspace environment without hardcoding company details.
-- **Documentation & Tests:** Installation guidance, security notes, and offline checks.
-
-**Technology:** Google Apps Script · Google Sheets · Google Admin SDK Directory API
-
-[View source code](https://github.com/Gobiselvan/GWS-Admin-Hub) · [Read setup instructions](https://github.com/Gobiselvan/GWS-Admin-Hub#readme)
-
-> This is an open-source example for authorized Workspace administrators. Always test in your own environment before using it with live accounts.
-
-### 👤 [About-me](https://github.com/Gobiselvan/About-me)
-
-My professional portfolio featuring IT operations experience, infrastructure and asset-management skills, certifications, and technical projects.
-
-**Technology:** Markdown · SVG · GitHub
-
-[Browse all repositories](https://github.com/Gobiselvan?tab=repositories)
-
----
-
 ## ✨ What I bring to the table
 
 | Focus | How I contribute |
