@@ -1,0 +1,35 @@
+name: Portfolio checks
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate-profile:
+    name: Validate profile assets
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+      - name: Validate README and SVG banner
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          from xml.etree import ElementTree as ET
+          readme = Path("README.md")
+          banner = Path("assets/profile-banner.svg")
+          assert readme.is_file(), "README.md is missing"
+          assert banner.is_file(), "Profile banner is missing"
+          content = readme.read_text(encoding="utf-8")
+          assert "Gobiselvan R" in content, "Expected display name not found"
+          assert "./assets/profile-banner.svg" in content, "README must link to profile banner"
+          ET.parse(str(banner))
+          print("Portfolio README and SVG banner validated")
+          PY
