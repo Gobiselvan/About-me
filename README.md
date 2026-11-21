@@ -12,6 +12,7 @@
 
 <a href="mailto:gobiselvan.r@outlook.in"><img src="https://img.shields.io/badge/Email%20Me-0f766e?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Gobiselvan" /></a>
 <a href="https://github.com/Gobiselvan"><img src="https://img.shields.io/badge/GitHub-202936?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
+<a href="https://www.instagram.com/mr_rgs.13/"><img src="https://img.shields.io/badge/Instagram-%40mr__rgs.13-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram @mr_rgs.13" /></a>
 
 </div>
 
@@ -73,6 +74,7 @@ My work spans **IT infrastructure, system administration, end-user support, asse
 I'm interested in **IT infrastructure, asset management, service improvement, and secure workplace technology**. Always happy to exchange ideas with fellow IT professionals.
 
 📨 **Email:** [gobiselvan.r@outlook.in](mailto:gobiselvan.r@outlook.in)  
+📸 **Instagram:** [@mr_rgs.13](https://www.instagram.com/mr_rgs.13/)  
 🌍 **Based in:** Bengaluru, Karnataka, India
 
 ---
